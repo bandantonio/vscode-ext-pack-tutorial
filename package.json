@@ -1,0 +1,23 @@
+{
+    "name": "my-first-pack",
+    "displayName": "Mister Gold Extension Pack",
+    "version": "0.0.1",
+    "preview": true,
+    "publisher": "mister-gold",
+    "icon": "icon.png",
+    "description": "My own extension pack",
+    "categories": [ "Extension Packs" ],
+    "extensionPack": [
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "ms-azuretools.vscode-docker",
+        "astro-build.astro-vscode"
+    ],
+    "engines": {
+        "vscode": "^1.76.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bandantonio/vscode-ext-pack-tutorial.git"
+    }
+}
