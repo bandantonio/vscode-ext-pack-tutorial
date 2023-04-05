@@ -1,3 +1,5 @@
 # Mister Gold Extension Pack
 
-Hello world! this is my extension pack for VS Code.
+Hello world!
+
+This extension pack was created as a part of the [tutorial](https://mister-gold.pro/posts/create-vscode-extension-pack/)

@@ -1,17 +1,20 @@
 {
     "name": "my-first-pack",
     "displayName": "Mister Gold Extension Pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "preview": true,
     "publisher": "mister-gold",
     "icon": "icon.png",
-    "description": "My own extension pack",
+    "description": "Sample extension pack made for mister-gold.pro",
     "categories": [ "Extension Packs" ],
     "extensionPack": [
         "ritwickdey.liveserver",
         "pkief.material-icon-theme",
         "ms-azuretools.vscode-docker",
-        "astro-build.astro-vscode"
+        "astro-build.astro-vscode",
+        "humao.rest-client",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens"
     ],
     "engines": {
         "vscode": "^1.76.0"
